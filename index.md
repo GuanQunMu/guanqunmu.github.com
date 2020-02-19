@@ -1,12 +1,14 @@
 # Projects
 
-## Control System of Ion Traps & Zeeman Scan and Rabi Scan
+## Designing Control System for Ion Traps 
+## & Zeeman Scan and Rabi Scan of Single Qubit
+(March, 2019 -- Now)
+Mang Feng's Ion Trap Group, Wuhan Institute of Physics and Mathematics ,CAS 
 
 
 
 
 
-## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/GuanQunMu/GuanQunMu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
