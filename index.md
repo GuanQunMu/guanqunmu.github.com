@@ -1,11 +1,21 @@
 # Projects
 
 ## Designing Control System for Ion Traps & Zeeman Scan and Rabi Scan of Single Qubit
-*March, 2019 -- Now*, **Mang Feng's Ion Trap Group, Wuhan Institute of Physics and Mathematics ,CAS **
+*March, 2019 -- June, 2019 & September, 2019-- Now*
+
+Mang Feng's Ion Trap Group, Wuhan Institute of Physics and Mathematics (WIPM) ,CAS 
 
 
+## Time Tagging of Photons from Ion Traps
+*June, 2019 -- September, 2019*
+
+Manas Mukherjee's Ion Trap Group, CQT, National University of Singapore (NUS)
 
 
+## Simulation of Surface Code and Toric Code
+*July, 2018 -- January, 2019*
+
+Yongjian Han's Theory Group, USTC
 
 
 You can use the [editor on GitHub](https://github.com/GuanQunMu/GuanQunMu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
