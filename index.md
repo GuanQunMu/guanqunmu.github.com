@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="30%">
-      <img src="https://github.com/GuanQunMu/guanqunmu.github.com/blob/master/DSC_251.jpg" width="300"/>
+      <img src="/DSC_251.jpg" width="100%">
     </td>
     <td width="70%">
       
