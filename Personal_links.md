@@ -32,3 +32,15 @@ https://www.jianshu.com/p/eff5ea9d9f71
 https://github.com/GuanQunMu/IonTrap-WIPM/blob/master/Manual%20for%20Developers(English%20Version).md
 https://blog.csdn.net/haha1fan/article/details/55098127
 
+### Others
+
+**Markdown基本语法**  
+**Markdown basic grammar**
+
+http://xianbai.me/learn-md/article/about/readme.html
+https://www.jianshu.com/p/191d1e21f7ed
+
+**Latex基本语法**
+**Latex basic grammar**
+
+https://www.cnblogs.com/jingwhale/p/4250296.html
