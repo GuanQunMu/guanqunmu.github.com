@@ -19,7 +19,7 @@
 Mang Feng's Ion Trap Group, Wuhan Institute of Physics and Mathematics (WIPM) ,Chinese Academy of Sciences (CAS)  
 _March, 2019 -- June, 2019 & September, 2019-- Now_
 
-<img src="https://github.com/GuanQunMu/guanqunmu.github.com/blob/master/How does CS work.png" width="400"/>
+<img src="https://https://github.com/GuanQunMu/guanqunmu.github.com/blob/master/How%20does%20%20CS%20work.png" width="400"/>
 
 **Time Tagging of Photons from Ion Traps**  
 Manas Mukherjee's Ion Trap Group, CQT, National University of Singapore (NUS)  
