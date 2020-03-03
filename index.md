@@ -26,6 +26,7 @@ Artiq is adopted by ion trap groups from NIST and Oxford as the control system o
   <tr>
     <td width="35%">
       <img src="/How_does _CS_work.png" width="100%">
+      <p>  </p>
       <p>The structure of control system for ion traps based Artiq. </p>
     </td>
     <td width="65%">
@@ -35,7 +36,7 @@ Artiq is adopted by ion trap groups from NIST and Oxford as the control system o
   </tr>
 </table>
 
-[click here to see the github page of it](https://github.com/GuanQunMu/IonTrap-WIPM)
+[click here to see the github page of this project (updated on February 1, 2020)](https://github.com/GuanQunMu/IonTrap-WIPM)
 
 ___
 
