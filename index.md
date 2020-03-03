@@ -13,11 +13,10 @@
 </table>
 
 
-## Research Experience
+## **Research Experience**
 
 
-**Designing Control System for Ion Traps & Realizing Zeeman Scan and Rabi Scan of a Single Qubit**  
-
+#### **Designing Control System for Ion Traps & Realizing Zeeman Scan and Rabi Scan of a Single Qubit**
 Mang Feng's Ion Trap Group, Wuhan Institute of Physics and Mathematics (WIPM) ,Chinese Academy of Sciences (CAS)  
 _March, 2019 -- June, 2019 & September, 2019-- Now_
 
