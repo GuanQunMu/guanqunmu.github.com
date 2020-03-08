@@ -70,6 +70,11 @@ ___
 >Yongjian Han's Theory Group, University of Science and Technology of China (USTC)  
 July, 2018 -- January, 2019
 
+Surface code and toric code are topological codes, which were first proposed for quantum error correction. 
+
+I designed a simulation program by javascript to simulate the operation process of surface code and toric code: after qubits were operated by logic gates (X or Z gates), by using check opreators to find error points, using the Edmond-blossom algorithm to find the shortest path to link all error points and repairing them, The fidelity of logic gates will increase as the size of the qubits increases when its logical error rate is below the threshold.
+
+In addition, I explored the thresholds of surface code and toric code under special conditions.
 
 
 ## Skills
