@@ -26,11 +26,11 @@ March, 2019 -- Now
 
 <table border="0">
   <tr>
-    <td width="35%">
+    <td width="40%">
       <img src="/How_does _CS_work.png" width="100%">
       
     </td>
-    <td width="65%">
+    <td width="60%">
       <img src="/Dashboaed.png" width="100%">
       
     </td>
@@ -39,7 +39,7 @@ March, 2019 -- Now
 
 The left figure shows the structure of control system for ion traps based Artiq. The right figure shows The dashboard and customized GUI. 
 
-For more detalls, click here to see the github page of our contorl system :[](https://github.com/GuanQunMu/IonTrap-WIPM)
+For more detalls, click here to see the github page of our contorl system :[https://github.com/GuanQunMu/IonTrap-WIPM](https://github.com/GuanQunMu/IonTrap-WIPM)
 
 ___
 
@@ -77,14 +77,12 @@ I designed a program in javascript to simulate the operation of the surface code
 <table border="0">
   <tr>
     <td width="50%">
-      <img src="/Face.png" width="100%">
-      <(a)>
+      <img src="/Face.png" width="100%">(a)
        
       
     </td>
     <td width="50%">
-      <img src="/TORIC.png" width="100%">
-      <(b)>
+      <img src="/TORIC.png" width="100%">(b)
       
     </td>
   </tr>
@@ -92,7 +90,7 @@ I designed a program in javascript to simulate the operation of the surface code
 
 (a) A two-dimensional array implementation of the surface code. (b) The fidelity of one logical qubit array. The x-axis represents the error rate of the logic gate, and the y represents the number of errors in 10,000 Monte Carlo samples. Different colors represent different array sizes. It can be found that the threshold is 0.1050.
 
-For more detalls, You can go to my Github page to use my surface code program: [](https://github.com/GuanQunMu/Surface-Code)
+For more detalls, You can go to my Github page to use my surface code program: [https://github.com/GuanQunMu/Surface-Code](https://github.com/GuanQunMu/Surface-Code)
 
 
 ## Skills
