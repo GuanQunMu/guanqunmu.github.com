@@ -92,13 +92,13 @@ I designed a program in javascript to simulate the operation of the surface code
 Click here to see the Github page of this project and use my surface code program: [https://github.com/GuanQunMu/Surface-Code](https://github.com/GuanQunMu/Surface-Code)
 
 
-## GPA
+## **GPA**
 Overall GPA: **85 /100**  
 Major GPA: **88 /100**  
 Core Courses:  
 Quantum Mechanics **(90)** / Advanced Quantum Mechanics **(88)** / Electrodynamics **(95)** / Theoretical Mechanics **(93)** / Thermodynamics and Statistical Mechanics **(85)** / Computational Physics **(91)** / Mechanics **(96)** / Atomic and Nuclear Physics **(98)** / Optics **(89)** / Electricity and Magnetism **(90)**
 
-## Skills
+## **Skills**
 20 k+ lines Python & Javascript Codes  
 1 year FPGA Programing Experience (Verilog)  
 1 year Matlab & Mathematica Experience  
@@ -107,6 +107,6 @@ Quantum Mechanics **(90)** / Advanced Quantum Mechanics **(88)** / Electrodynami
 
 
 
-## Contact
+## **Contact**
 
 E-mail: **guanqun_mu@whu.edu.cn**
