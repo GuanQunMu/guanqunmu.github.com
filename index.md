@@ -93,10 +93,9 @@ Click here to see the Github page of this project and use my surface code progra
 
 
 ## GPA
-**Overall GPA**: 85 /100  
-**Major GPA**: 88 /100  
-**Core Courses**:  
-Quantum Mechanics (90) / Advanced Quantum Mechanics (88) / Electrodynamics (95) / Theoretical Mechanics (93) / Thermodynamics and Statistical Mechanics (85) / Computational Physics (91) / Mechanics (96) / Atomic and Nuclear Physics (98) / Optics (89) / Electricity and Magnetism (90)
+Overall GPA: **85 /100**  Major GPA: **88 /100**  
+Core Courses:  
+Quantum Mechanics **(90)** / Advanced Quantum Mechanics **(88)** / Electrodynamics **(95)** / Theoretical Mechanics **(93)** / Thermodynamics and Statistical Mechanics **(85)** / Computational Physics **(91)** / Mechanics **(96)** / Atomic and Nuclear Physics **(98)** / Optics **(89)** / Electricity and Magnetism **(90)**
 
 ## Skills
 20 k+ lines Python & Javascript Codes  
