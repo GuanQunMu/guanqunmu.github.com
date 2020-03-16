@@ -6,7 +6,7 @@
     <td width="65%">
       
       <p>I am Guanqun Mu, a senior undergraduate student at Wuhan University, majoring in physics. </p>
-      <p>I am interested in <b>scalable quantum computing systems</b>, especially <b>designing control systems of ion traps</b>, and <b>simulation of physical processes in quantum computing models</b>. </p>
+      <p>I am interested in scalable quantum computing systems, especially <b>designing control systems of ion traps</b>, and <b>simulation of physical processes in quantum computing models</b>. </p>
     </td>
   </tr>
 </table>
