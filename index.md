@@ -7,7 +7,7 @@
       
       <p> My name is Guanqun Mu and currently I am an undergraduate student at Wuhan University, Hubei, P R China. My major subject is physics and expected to graduate in summer 2020. </p>
       <p>I am keenly interested to peruse my Masters and Doctorate in scalable quantum computing systems. My interest meets in <b>designing control systems for ion traps</b> and <b>simulation of physical processes in quantum computing models</b>.</p>
-      <p>Therefore, in regard to get excel in the aforementioned research filed I have tried my best to participated in different ion trap groups. A short detail is as given below. </p>
+      <p>Therefore, in regard to get excel in the after mentioned research filed I have tried my best to participated in different ion trap groups. A short detail is as given below. </p>
     </td>
   </tr>
 </table>
