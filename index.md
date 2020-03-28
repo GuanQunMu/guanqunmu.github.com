@@ -6,7 +6,7 @@
     <td width="65%">
       
       <p> My name is Guanqun Mu and currently I am an undergraduate student at Wuhan University, Hubei, P R China. My major subject is physics and expected to graduate in summer 2020. </p>
-      <p>I am keenly interested to peruse my Masters and Doctorate in scalable quantum computing systems. My interest meets in <b>designing control systems for ion traps</b> and <b>simulation of physical processes in quantum computing models</b>.</p>
+      <p>I am keenly interested to peruse my Masters and Doctorate in scalable quantum computing systems. My interest currently meets in <b>quantum information process in ion traps</b> and <b>simulation of physical processes in quantum computing models</b>.</p>
       <p>Therefore, in regard to get excel in the after mentioned research filed I have tried my best to participated in different ion trap groups. A short detail is as given below. </p>
     </td>
   </tr>
@@ -16,7 +16,7 @@
 ## **Research Experience**
 
 
-### **Designing Control System for Zeeman Scan and Rabi Scan of qubits in Ion Traps**
+### **Designing the Control System for Zeeman Scan and Rabi Scan of qubits in Ion Traps**
 >Mang Feng's Ion Trap Group, Wuhan Institute of Physics and Mathematics (WIPM) ,Chinese Academy of Sciences (CAS)  
 March, 2019 -- Now
 
@@ -26,6 +26,7 @@ March, 2019 -- Now
 
 <table border="0">
   <tr>
+    <td height="40%">
     <td width="42%">
       <img src="/How_does _CS_work.png" width="100%">(a)
       
@@ -33,6 +34,10 @@ March, 2019 -- Now
     <td width="58%">
       <img src="/Dashboaed.png" width="100%">(b)
       
+    </td>
+    </td>
+    <td height="60%">
+    <img src="/Dashboaed.png" width="100%">(b)
     </td>
   </tr>
 </table>
