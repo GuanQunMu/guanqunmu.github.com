@@ -20,9 +20,9 @@
 >Mang Feng's Ion Trap Group, Wuhan Institute of Physics and Mathematics (WIPM) ,Chinese Academy of Sciences (CAS)  
 March, 2019 -- Now
 
-  Artiq is adopted by ion trap groups from NIST and Oxford University as the control system of ion traps. It integrates FPGA, AOM and DDS, and can control experimental processes through Python. Our group also adopted it for the operation of quantum information.
+  Applied by a laser with a frequency near the rabi frequency, a two-level ion continuously oscillates between levels, which is the physical process of an one-qubit quantum gate. By setting the rabi oscillation time, ones can control the quantum gate which acts on a qubit.
   
-  As the main developer of Artiq in our group, I designed functions that can implement zeeman scan and rabi scan for qubits and paluse shaping for DDS to Reduce AC-Stark effect. In addition, to facilitate the experimental process, I made a custom GUI by Python.
+  This requires an control system to achieve it. Artiq is adopted by ion trap groups from NIST and Oxford University as the control system of ion traps. It integrates FPGA, AOM and DDS, and can control experimental processes through Python. As the main developer of Artiq in our group, I designed functions that can implement zeeman scan and rabi scan for qubits and paluse shaping for DDS to Reduce AC-Stark effect. In addition, to facilitate the experimental process, I made a custom GUI by Python.
 
 <table border="0">
   <tr>
@@ -37,7 +37,7 @@ March, 2019 -- Now
   </tr>
 </table>
 
-(a) Structure of our control system for ion traps based on artiq. (b) The dashboard and customized GUI. 
+(a) (b) Structure of our control system for ion traps based on artiq. (c) The dashboard and customized GUI. 
 
 Click here to see the github page of our contorl system and use it: [https://github.com/GuanQunMu/IonTrap-WIPM](https://github.com/GuanQunMu/IonTrap-WIPM)
 
