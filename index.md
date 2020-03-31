@@ -72,7 +72,7 @@ ___
 >Yongjian Han's Theory Group, University of Science and Technology of China (USTC)  
 July, 2018 -- January, 2019
 
-The surface code and toric code are one of the most popular quantum error correction codes. (Widely used in superconducting quantum computing).
+As the number of entangling qubits increases, the fidelity of multi-qubit gates will decrease, which is one of the biggest obstacles to achieving scalable quantum computing. However, encoded by surface code, which is used by Google, the fidelity of quantum gates of  encoded qubits will increase as the size of physical qubits array increases.
 
 I designed a program in javascript to simulate the operation of the surface code and toric code, explored their thresholds under specific conditions, and verified their properties: The fidelity of logic gates will increase as the size of the qubits increases when its logical error rate is below the threshold.
 
