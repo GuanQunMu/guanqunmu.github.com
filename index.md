@@ -20,7 +20,7 @@
 >Mang Feng's Ion Trap Group, Wuhan Institute of Physics and Mathematics (WIPM) ,Chinese Academy of Sciences (CAS)  
 March, 2019 -- Now
 
-  Applied by a laser with the rabi frequency, a two-level ion will continuously oscillates between levels. Ones can control the quantum gate acting on a qubit by setting the rabi oscillation time, which is called the rabi scan. To achieve it, an control system is required. Artiq is adopted by ion trap groups from NIST and Oxford University as the control system of ion traps. It integrates FPGA, AOM and DDS, and can control experimental processes through Python. 
+  Applied by a laser with the rabi frequency, a two-level ion will continuously oscillates between levels. Ones can control the quantum gate acting on a qubit by setting the rabi oscillation time, which is called the rabi scan. An control system is required to achieve it. Artiq is adopted by ion trap groups from NIST and Oxford University as the control system of ion traps. It integrates FPGA, AOM and DDS, and can control experimental processes through Python. 
   
   In our group, as the main developer of the control system based on Artiq, I designed functions that can implement rabi scan and zeeman scan for qubits and paluse shaping for DDS to Reduce AC-Stark effect. In addition, to facilitate the experimental process, I made a custom GUI by Python.
 
@@ -37,7 +37,7 @@ March, 2019 -- Now
   </tr>
 </table>
 
-(a) Interacting with the 729 nm wave length laser, the Ca + ion oscillate between the ground state and the D5/2 state. (b) Structure of our control system for ion traps based on artiq. (c) The dashboard and customized GUI shown on the PC. 
+(a) Interacting with the 729 nm wave length laser, the Ca + ion oscillate between the ground state and the D5/2 state. (b) Structure of our control system for ion traps based on artiq. (c) A preview of the dashboard and customized GUI shown on the PC. 
 
 Click here to see the github page of our contorl system and use it: [https://github.com/GuanQunMu/IonTrap-WIPM](https://github.com/GuanQunMu/IonTrap-WIPM)
 
@@ -90,7 +90,7 @@ I designed a program in javascript to simulate the operation of the surface code
   </tr>
 </table>
 
-(a) A two-dimensional array implementation of the surface code. (b) The fidelity of one logical qubit array. The x-axis represents the error rate of the logic gate, and the y represents the number of errors in 100,000 Monte Carlo samples. Different colors represent different array sizes. It can be found that the threshold is 0.1050.
+(a) A two-dimensional array implementation of the surface code. (b) The fidelity of one logical qubit array. The x-axis represents the error rate of the logic gate, and the y represents the number of errors in 100,000 Monte Carlo samples. Different colors represent different array sizes. It can be found that the threshold is 0.105.
 
 Click here to see the Github page of this project and use my surface code program: [https://github.com/GuanQunMu/Surface-Code](https://github.com/GuanQunMu/Surface-Code)
 
