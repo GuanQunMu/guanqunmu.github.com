@@ -27,11 +27,11 @@ March, 2019 -- Now
 <table border="0">
   <tr>
     <td width="30%">
-      <img src="/rabi.png" width="100%">(a)
-      <img src="/How_does _CS_work.png" width="100%">(b)
+      <img src="/rabi.png" width="100%"><small>(a)</small>
+      <img src="/How_does _CS_work.png" width="100%"><small>(b)</small>
     </td>
     <td width="70%">
-      <img src="/Dashboaed.png" width="100%">(c)
+      <img src="/Dashboaed.png" width="100%"><small>(c)</small>
       
     </td>
   </tr>
@@ -56,15 +56,15 @@ It required an experimental control system to achieve it. With FPGA Programing (
 <table border="0">
   <tr>
     <td width="35%">
-      <img src="/coherent.gif" width="100%">(a)
+      <img src="/coherent.gif" width="100%"><small>(a)</small>
     </td>
     <td width="65%">
-      <img src="/TimeTagging.png" width="100%">(b)
+      <img src="/TimeTagging.png" width="100%"><small>(b)</small>
       
     </td>
   </tr>
 </table>
-(a)  Time evolution of the probability distribution with quantum phase of a coherent state with α=3(the picture is from Wikipedia). (b) The FPGA program: The binary bit string transmitted by the JTAG protocol can determine when to end the experiment; the signal from the PLL passes through the counter to determine the current time, waiting for the signal in the PMT to trigger.
+<small>(a)  Time evolution of the probability distribution with quantum phase of a coherent state with α=3(the picture is from Wikipedia). (b) The FPGA program: The binary bit string transmitted by the JTAG protocol can determine when to end the experiment; the signal from the PLL passes through the counter to determine the current time, waiting for the signal in the PMT to trigger.</small>
 
 ___
 
@@ -80,18 +80,18 @@ I designed a program in javascript to simulate the operation of the surface code
 <table border="0">
   <tr>
     <td width="50%">
-      <img src="/Face.png" width="100%">(a)
+      <img src="/Face.png" width="100%"><small>(a)</small>
        
       
     </td>
     <td width="50%">
-      <img src="/TORIC.png" width="100%">(b)
+      <img src="/TORIC.png" width="100%"><small>(b)</small>
       
     </td>
   </tr>
 </table>
 
-(a) A two-dimensional array implementation of the surface code. (b) The fidelity of one logical qubit array. The x-axis represents the error rate of the logic gate, and the y represents the number of errors in 100,000 Monte Carlo samples. Different colors represent different array sizes. It can be found that the threshold is 0.105.
+<small>(a) A two-dimensional array implementation of the surface code. (b) The fidelity of one logical qubit array. The x-axis represents the error rate of the logic gate, and the y represents the number of errors in 100,000 Monte Carlo samples. Different colors represent different array sizes. It can be found that the threshold is 0.105.</small>
 
 Click here to see the Github page of this project and use my surface code program: [https://github.com/GuanQunMu/Surface-Code](https://github.com/GuanQunMu/Surface-Code)
 
