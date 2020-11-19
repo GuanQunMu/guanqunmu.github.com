@@ -48,8 +48,7 @@ ___
  
  
  
-### **2. Time Tagging of Photons emitted from Ion Traps**  
-**Simulation of the Ultra-Fast Qubit Transition of 137Ba+ Ions (in progress)**
+### **2. Time Tagging of Photons emitted from Ion Traps  Simulation of the Ultra-Fast Qubit Transition of 137Ba+ Ions (in progress)**
 >Manas Mukherjee's Ion Trap Group, CQT, National University of Singapore (NUS)  
  June 2019 -- September 2019  
  October 2020 -- Now
